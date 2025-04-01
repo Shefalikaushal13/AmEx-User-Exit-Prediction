@@ -1,4 +1,4 @@
-📌 Overview
+📌 Overview<br>
 This repository contains a Deep Learning model built to predict whether a customer will exit (churn) from American Express based on their transaction history and demographic data. 
 The model uses an Artificial Neural Network (ANN) implemented with TensorFlow/Keras and achieves high accuracy in classifying potential churners.
 
